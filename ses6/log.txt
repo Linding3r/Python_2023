@@ -1,0 +1,20 @@
+Thu Sep 28 10:48:50 2023
+Function name: add
+Arguments: (12, 44)
+Result: 56
+
+Thu Sep 28 10:48:50 2023
+Function name: printer
+Arguments: ('Hello World',)
+Result: Hello World
+
+Thu Sep 28 10:55:09 2023
+Function name: add
+Arguments: (12, 44)
+Result: 56
+
+Thu Sep 28 10:55:09 2023
+Function name: printer
+Arguments: ('Hello World',)
+Result: Hello World
+
